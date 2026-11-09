@@ -1,1 +1,0 @@
-# parabank-autotests
